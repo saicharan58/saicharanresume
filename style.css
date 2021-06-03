@@ -1,0 +1,153 @@
+body{
+    background-color: #E0FFFF;
+    margin: 0%;
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    color: #545454;
+}
+
+h2{
+    color: #1e836c;
+}
+
+.resumeheading{
+    position: fixed;
+    background-color:#c4f8f8 ;
+    width: 100%;
+    height: 10%;
+    margin: 0%;
+}
+
+.cloud1{
+    height: 30%;
+    width: 20%;
+    padding-left: 55%;
+    padding-top: 2%;
+    position: absolute;
+}
+
+.cloud2{
+    height: 30%;
+    width: 20%;
+    padding-top: 10%;
+    padding-bottom: 15%;
+    position: absolute;
+}   
+
+.name{
+    margin: 0%;
+    position: absolute;
+    margin-left: 39%;
+    margin-top: 13%;
+    color: #20d8e6;
+    font-weight: 2;
+    font-size: 350%;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+}
+
+.name1{
+    margin: 0%;
+    position: absolute;
+    padding-top: 18%;
+    padding-left: 43%;
+    color: #20d8e6;
+}
+
+.mountain{
+    width: 40%;
+    height: 60%;
+    padding-right: 15%;
+    padding-top: 30%;
+}
+
+.bird1{
+    width: 5%;
+    height: 5%;
+    padding-bottom: 24%;
+    padding-top: 5%;
+    padding-right: 5%;
+}
+
+.hr{
+    width: 20%;
+    height: 0%;
+    color: rgb(145, 217, 241);
+}
+
+.mypic{
+    height: 10%;
+    width: 10%;
+    padding-top: 2%;
+}
+
+.bio{
+    padding-top: 2%;
+    margin-bottom: 5%;
+}
+
+.skill{
+    width: 28%;
+    border-radius: 100%;
+    float: left;
+    margin-right: 3%;
+}
+
+.projects{
+    margin: 5% 20% 5% 25%;
+    text-align: left;
+    line-height: 1.5;
+}
+
+.personality{
+    width: 20%;
+    border-radius: 100%;
+    float: right;
+    margin-right: 8%;
+}
+
+.hobbies{
+    margin: 5% 20% 5% 25%;
+    text-align: left;
+    line-height: 1.5;
+}
+
+.certify{
+    width: 25%;
+    border-radius: 100%;
+    float: left;
+    margin-right: 8%;
+}
+
+.certification{
+    margin: 5% 20% 5% 25%;
+    text-align: left;
+    line-height: 1.5;
+}
+
+.footer{
+    width: 100%;
+    background-color:#3ca8a8;
+}
+
+.linkedin{
+    width: 10%;
+    
+}
+
+.instagram{
+    width: 2.5%;
+    padding-left: 2%;
+    padding-bottom: 2%;
+}
+
+.youtube{
+    width: 10%;
+    padding-left: 2%;
+    padding-bottom: 2%;
+}
+
+.contact{
+    padding-top: 1%;
+    padding-right: 30%;
+    color:  #a9eedf;
+}
